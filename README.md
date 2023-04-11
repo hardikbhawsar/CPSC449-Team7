@@ -1,7 +1,7 @@
 # **CPSC 449 Web Backend Project (Team 7) README**
 
 ## **Group Member Details:**
-- Member 1: Hardik Bhwsar (885191064) (hardik_bhawsar@csu.fullerton.edu)
+- Member 1: Hardik Bhawsar (885191064) (hardik_bhawsar@csu.fullerton.edu)
 - Member 2: Yathartha Patankar (885189803) (yatharthapatankar@csu.fullerton.edu)
 
 ## **Introduction:**
